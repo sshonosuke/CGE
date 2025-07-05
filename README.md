@@ -1,4 +1,4 @@
-# Crossed Grouped Random Effects Models
+# Scalable Estimation of Crossed Random Effects Models via Multi-way Grouping
 
 This repository provides R code implementing scalable estimation of crossed random effects models, as proposed by the following paper.
 
