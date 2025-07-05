@@ -8,8 +8,8 @@ This respository includes the following 6 files:
 
 - `CGE.R`: Script implementing the crossed grouped random effects models for binary and count responses
 - `CGE-ordinal.R`: Script implementing the crossed grouped random effects models for ordinal responses
-- `Sim_Logistic.R: Script for one-shot simulation study under two-way logistic models
-- `Sim_Poisson.R: Script for one-shot simulation study under three-way Poisson models
+- `Sim_Logistic.R`: Script for one-shot simulation study under two-way logistic models
+- `Sim_Poisson.R`: Script for one-shot simulation study under three-way Poisson models
 - `Data.RData`: 100K MovieLens data
 - `Example.R`: Script applying the crossed grouped random effects ordered probit models to 100K MovieLens data
 
