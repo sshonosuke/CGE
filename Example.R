@@ -4,7 +4,7 @@
 ###-----------------------------------------------------------------###
 
 rm(list=ls())
-source("GE-CCD-ordinal.R")
+source("CGE-ordinal.R")
 
 ## Dataset 
 load("Data.RData")   
